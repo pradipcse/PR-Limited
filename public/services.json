@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "title": "Cloud Solutions",
+    "description": "Leverage cloud computing technologies to streamline operations, increase efficiency, and reduce infrastructure costs.",
+    "icon": "FaCloud",
+    "color": "blue-500",
+    "extraDetails": {
+      "features": [
+        "Scalable infrastructure",
+        "Cost optimization",
+        "High availability"
+      ],
+      "clientExamples": [
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure",
+        "Google Cloud"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Software Development",
+    "description": "Custom software development solutions tailored to your business needs, enhancing functionality and productivity.",
+    "icon": "FaLaptopCode",
+    "color": "green-500",
+    "extraDetails": {
+      "features": [
+        "Custom web and mobile apps",
+        "Enterprise solutions",
+        "Agile development methodology"
+      ],
+      "clientExamples": [
+        "Tech Startups",
+        "E-commerce Platforms",
+        "Enterprise Businesses"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cybersecurity",
+    "description": "Robust security measures to protect your data and systems from cyber threats, ensuring safe and reliable operations.",
+    "icon": "FaShieldAlt",
+    "color": "red-500",
+    "extraDetails": {
+      "features": [
+        "Data encryption",
+        "Threat detection and prevention",
+        "Incident response and recovery"
+      ],
+      "clientExamples": [
+        "Financial Institutions",
+        "Government Agencies",
+        "E-commerce Companies"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Data Analytics",
+    "description": "Transform raw data into actionable insights to drive informed business decisions and enhance performance.",
+    "icon": "FaChartBar",
+    "color": "purple-500",
+    "extraDetails": {
+      "features": [
+        "Real-time analytics",
+        "Data visualization",
+        "Predictive modeling"
+      ],
+      "clientExamples": [
+        "Retailers",
+        "Healthcare Providers",
+        "Logistics Companies"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "AI & Machine Learning",
+    "description": "Innovative AI and ML solutions that help businesses automate processes, predict trends, and optimize outcomes.",
+    "icon": "FaRobot",
+    "color": "yellow-500",
+    "extraDetails": {
+      "features": [
+        "Natural Language Processing",
+        "Computer Vision",
+        "Automation and Robotics"
+      ],
+      "clientExamples": [
+        "Healthcare Providers",
+        "Autonomous Vehicle Companies",
+        "E-commerce Platforms"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Development",
+    "description": "Create user-friendly and scalable mobile applications for iOS and Android to connect with customers on-the-go.",
+    "icon": "FaMobileAlt",
+    "color": "teal-500",
+    "extraDetails": {
+      "features": [
+        "Cross-platform development",
+        "User-friendly interfaces",
+        "Push notifications"
+      ],
+      "clientExamples": [
+        "E-commerce Apps",
+        "Social Media Apps",
+        "Fitness & Health Apps"
+      ]
+    }
+  }
+]
